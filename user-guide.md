@@ -167,7 +167,7 @@ mypro1/
 在 Kiro 聊天窗口输入：
 
 ```
-Deepsearch: 基于 Vue Element Plus 的标准交互 DEMO 自动生成 Skill 设计
+Deepsearch: skill描述,融合平台现有的“前端标准组件库、全局 Icon 规范以及国际化规范”，该 Skill 可直接解析产品文档或需求描述，自动匹配并拼装出覆盖 80% 基础场景的标准交互 DEMO。让 PM 快速产出“所见即所得”的具象化需求；便于初期与研发和设计师分别在技术方案和设计思路上快速达成一致。同时该DEMO让设计师彻底告别基础的“搭积木”工作，只需专注剩下 20% 的核心审美判断与最终 UI 方案决策，提升产研设计定稿效率。公司前端标准库使用vue element ui 替代，最终生成的ui 是html的。
 ```
 
 ![Deep Research 触发输入](image/image4.png)
